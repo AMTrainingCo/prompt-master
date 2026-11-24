@@ -1,0 +1,6 @@
+{
+  "name": "prompt-master",
+  "owner": { "name": "AM Training Co" },
+  "description": "Prompt Master: rewrite rough prompts into better ones in one click",
+  "plugins": [{ "name": "prompt-master", "source": "./" }]
+}
